@@ -119,3 +119,5 @@ Value has park benefit value arch worth.
 Value has park arch.
 
 Value has park arch worth.
+
+Value has major.
